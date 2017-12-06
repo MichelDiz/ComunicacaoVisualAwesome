@@ -57,3 +57,9 @@
 
 - [awesome-fonts](https://github.com/brabadu/awesome-fonts) - Este é um awesome de fontes. 
 
+
+## Licença
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Na medida do possível, de acordo com a lei, [Michel Diz] renunciou a todos os direitos autorais e direitos conexos ou vizinhos a este trabalho. Sendo este catálago gerido pela licença CC (Creative Commons).
