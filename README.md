@@ -17,18 +17,18 @@
 
 # <img src="https://raw.githubusercontent.com/MichelDiz/ComunicacaoVisualAwesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
-- [Manuais de Marca](#Manuais-de-Marca)
-  - [Nacional](#Nacional)
-  - [Bahia](#Bahia)
+- [Manuais de Marca](#manuais-de-Marca)
+  - [Nacional](#nacional)
+  - [Bahia](#bahia)
 
 - [Marcas sem manuais públicos](#marcas-sem-manuais-públicos-avulso)
-  - [Nacional](#Nacional-1)
-  - [Bahia](#Bahia-1)
+  - [Nacional](#nacional-1)
+  - [Bahia](#bahia-1)
 
 - [Padrões de Placas de sinalização](#padrões-de-placas-de-sinalização)
-  - [Bahia](#Bahia-2)
+  - [Bahia](#bahia-2)
 
-- [Links Extras](#Links-Extras)
+- [Links Extras](#links-Extras)
 
 ## Manuais de Marca
 > Aqui acontece milagres - Raro uma instituição publicar manuais, vamos rezar pra encontrar algumas pra vocês xD.
