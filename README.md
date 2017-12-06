@@ -7,7 +7,7 @@
 
 # Comunicacao Visual Awesome -
 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)
 
 >Este é um catálago (conjunto de links ou mesmo arquivos leves ex: SVG, EPS, PDF) de modelos usados comumente na produção de peças para Comunicação Visual. Todos os links e arquivos aqui catalogados são de dominio publico e por vezes propriedade intelectual de uma instituição. Quando for propriedade intelectual todos direitos estão reservados à estas e catalogados aqui por dois motivos. Primeiro a instituição publica formalmente um manual de marca ou do modelo. Segundo motivo, eu (ou quem ajudar a montar o catalago) entrei em contato com a instituição e pedi autorização para tal.
 
