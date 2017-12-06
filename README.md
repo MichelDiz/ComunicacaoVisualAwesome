@@ -12,13 +12,22 @@
 
 
 ## Manuais de Marca
+> Aqui acontece milagres - Raro uma instituição publicar manuais, vamos rezar pra encontrar algumas pra vocês xD.
 
 ### Nacional
 
 ### Bahia
 
 ## Marcas sem manuais públicos (avulso)
+> Aqui você irá encontrar modelos que não encontramos manuais. Apenas o arquivo publicado pela instituição ou empresa.
 
 ### Nacional
+
+### Bahia
+
+
+## Padrões de Placas de sinalização
+
+> Aqui você irá encontrar padrões de cada estado e cidade. Placas como de Alvará ou de estrada e padrões requeridos por arquitetos.
 
 ### Bahia
